@@ -1,0 +1,10 @@
+{
+  "name": "Recipe Buddy",
+  "version": "1.0.0",
+  "slug": "recipe_buddy",
+  "description": "Your recipe assistant",
+  "arch": ["amd64", "aarch64"],
+  "ports": {
+    "3000/tcp": 3000
+  }
+}
